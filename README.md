@@ -1,2 +1,2 @@
 # Intro-03-Swift-HelloWorld
-[![GitHub's Super Linter](https://github.com/ICS4UALEXDM/ICS4U-Intro-02-Java-HelloWorld/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS4UALEXDM/ICS4U-Intro-02-Java-HelloWorld/actions)
+[![SwiftLint](https://github.com/ICS4UALEXDM/Intro-03-Swift-HelloWorld/workflows/SwiftLint/badge.svg)](https://github.com/ICS4UALEXDM/Intro-03-Swift-HelloWorld/actions)
